@@ -1,0 +1,17 @@
+{
+  "name": "botzy",
+  "version": "1.0.0",
+  "description": "Bot app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "AbiramK",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  },
+  "dependencies": {
+    "python-shell": "^1.0.4"
+  }
+}

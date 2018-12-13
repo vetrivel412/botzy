@@ -1,0 +1,5 @@
+pywin32==223
+weather_api==0.0.4
+SpeechRecognition==3.8.1
+requests==2.18.4
+
